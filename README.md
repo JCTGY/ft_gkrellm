@@ -41,6 +41,6 @@ make
 ## Group Project Members
 
 Mohammad Butt: &nbsp;https://github.com/mohammadbutt \
-Seunghyun Ko: &nbsp;&nbsp;https://github.com/kosehy \
-Jeffrey Chaing: https://github.com/JCTGY
+Seunghyun Ko: &nbsp;&nbsp&nbsp;;https://github.com/kosehy \
+Jeffrey Chaing: &nbsp;https://github.com/JCTGY
 
