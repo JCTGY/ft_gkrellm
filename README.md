@@ -42,5 +42,5 @@ make
 
 Mohammad Butt: &nbsp;https://github.com/mohammadbutt \
 Seunghyun Ko: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/kosehy \
-Jeffrey Chaing: &nbsp;&nbsp;https://github.com/JCTGY
+Jeffrey Chaing: &nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JCTGY
 
