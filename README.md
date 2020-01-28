@@ -39,6 +39,8 @@ make
 * zaz’s favorite animal
 
 ## Group Project Members
+<pre>
 Mohammad Butt:  https://github.com/mohammadbutt \
 Seunghyun Ko:   https://github.com/kosehy \
 Jeffrey Chaing: https://github.com/JCTGY
+</pre>
