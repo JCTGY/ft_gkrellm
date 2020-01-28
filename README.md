@@ -22,7 +22,7 @@ git clone https://github.com/JCTGY/ft_gkrellm
 cd ft_gkrellm
 make
 ./ft_gkrellmT   /** For Text Mode **/
-./ft_gkrellmG . /** For Graphic Maode **/
+./ft_gkrellmG   /** For Graphic Maode **/
 ```
 
 ## Mandatory
